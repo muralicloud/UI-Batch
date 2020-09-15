@@ -1,28 +1,45 @@
 li{
     float: left;
     margin-left:40px;
+    
    
+}
+nav {
+  margin-top: -5ex;
+  margin-left: 27ex;
+  font-style: italic;
 }
 header{
     text-align: center;
     font-family: 'Playfair Display', serif;
-    font-weight: 900;
     font-size: 50px;
     text-transform: uppercase;
-    display: inline-block;
     line-height: 72px;
     margin-bottom: -20px;
+    margin-left: -1ex;
+    margin-top: -2ex;
     
 
 }
-section {
-    column-count: 3;
-    column-gap: 2em;
-  background-color: rgb(231, 227, 190);
+#article1 {
+  column-count: 2;
+  background-color: whitesmoke;
+  margin-top: -3ex;
 }
-#boxes {
-  
-  }
+#articlediv {
+  margin-left: 1ex;
+}
+#articleHead {
+  font-size: 3ex;
+  font-weight: bold;
+ 
+}
+#p2{
+  margin-top: 1ex;
+}
+#p0 {
+  margin-top: 1ex;
+}
   #column1,#column2,#column3 {
     float: left;
     height: 470px;
@@ -31,10 +48,10 @@ section {
    
   }
   #column1{
-background-color: rgb(253, 250, 224);
+background-color: white;
   }
   #column3{
-      background-color: rgb(221, 219, 203);
+      background-color: white;
   }
   #column21,#column22,#column23 {
     float: left;
@@ -43,16 +60,30 @@ background-color: rgb(253, 250, 224);
     padding: 0 10px;
   }
   #column21{
-      background-color: khaki;
+      background-color: whitesmoke;
   }
   #column22{
-    background-color: rgb(241, 236, 188);
+    background-color: white;
   }
   #column23{
-    background-color: rgb(228, 224, 194);
+    background-color: whitesmoke;
   }
+  #heading{
+    margin-top: 0em;
+    font-size: 0.8cm;
+    font-weight: 10;
+    text-align: center;
+    font-style: italic;
+    font-weight: 10;
+   
+  }
+ img {
+   height:100px;
+   width: 120px;
+   margin-left: 10ch;
+ }
   footer {
     text-align: center;
     padding: 3px;
-    background-color:rgb(228, 224, 194);
+    background-color:rgb(236, 233, 233);
   }
