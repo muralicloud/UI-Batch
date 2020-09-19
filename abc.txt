@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 fdkjfsdfh
 adding another line
+=======
+ifdkjfsdfh
+here I am adding one more line
+>>>>>>> Stashed changes
